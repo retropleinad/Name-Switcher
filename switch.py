@@ -9,5 +9,4 @@ os.rename(data['folder2'], data['temp'])
 os.rename(data['folder1'], data['folder2'])
 os.rename(data['temp'], data['folder1'])
 
-for key, val in data.items():
-    print(key + ":" + val)
+print('changed names successfully')
