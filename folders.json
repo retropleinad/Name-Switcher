@@ -1,4 +1,5 @@
 {
-  "file1": "C:\\Users\\Daniel\\OneDrive\\Desktop\\Sample1\\text2.txt",
-  "file2": "C:\\Users\\Daniel\\OneDrive\\Desktop\\Sample2\\text1.txt"
+  "temp": "C:\\Users\\Daniel\\OneDrive\\Desktop\\TemporaryFile",
+  "folder1": "C:\\Users\\Daniel\\OneDrive\\Desktop\\Sample1",
+  "folder2": "C:\\Users\\Daniel\\OneDrive\\Desktop\\Sample2"
 }
